@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>hello world</title>
+    <link href="/2020/07/22/hello-world/"/>
+    <url>/2020/07/22/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>$$ e = mc^2 $$</p><h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><pre><code class="hljs python"><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">say</span><span class="hljs-params">()</span>:</span>    sdd</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hexo-deploy</title>
+    <link href="/2020/07/22/hexo-deploy/"/>
+    <url>/2020/07/22/hexo-deploy/</url>
+    
+    <content type="html"><![CDATA[<p>success!</p><p>$$<br>e=mc^2<br>$$</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
